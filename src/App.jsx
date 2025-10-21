@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <Conteiner saludo = "hola como va?"/>
+      <Conteiner saludo = "BIENVENIDOS"/>
     </>
   ) 
 }

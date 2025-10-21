@@ -1,7 +1,11 @@
 import CartWidget from './CartWidget.jsx';
+import Logo from './Logo.jsx';
 function Navbar() {
   return (
     <>
+      <div>
+          <Logo />
+      </div>
       <div>
           <ul>
             <li>Productos</li>
